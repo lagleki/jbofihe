@@ -27,7 +27,7 @@ static int verbose=0;
 static int expand_lujvo = 0; /* Show decomposition of lujvo */
 static int allow_cultural_rafsi = 1; /* In testbench mode, always allow */
 #else
-
+#include <stdlib.h>
 #include <stddef.h>
 
 /* When linked into the main program, get this option from the command line

@@ -62,7 +62,7 @@ compress_children(TreeNode *parent)
 
   j = 0;
   for (i=0; i<nt->nchildren; i++) {
-    if (nt->children[j] = nt->children[i]) j++;
+    if (nt->children[j] == nt->children[i]) j++;
   }
   nt->nchildren = j;
   return;

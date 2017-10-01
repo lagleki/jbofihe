@@ -8,6 +8,7 @@
 /* COPYRIGHT */
 
 #include <assert.h>
+#include <string.h>
 
 #include "nodes.h"
 #include "rpc_tab.h"

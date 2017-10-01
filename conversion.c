@@ -19,6 +19,7 @@
 #include "functions.h"
 #include "rpc_tab.h"
 #include "cmavotab.h"
+#include <string.h>
 
 /*++++++++++++++++++++++++++++++
   Lookup which place is exchanged for a cmavo of selma'o SE
