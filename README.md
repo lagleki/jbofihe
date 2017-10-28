@@ -1,0 +1,1 @@
+`emcc -o 1.js main.c lex1.c lex2.c tree.c properties.c conversion.c functions.c terms.c cmavotab.c categ.c connect.c elide.c erasure.c memory.c morf.c morf_dfa.c morf_enc.c morf_lex.c morfvlex.c nonterm.c output.c relative.c tenses.c translate.c stag_dfa.c dictaccs.c canonluj.c latex.c htmlout.c bccheck.c errorscan.c latexblk.c textout.c textblk.c`
